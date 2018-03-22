@@ -2,8 +2,7 @@
 
 # The Federation Challenge
 
-<img src='Copy of hivemanchester logo.png' height="150" width="330" />
-<img src='hac 2 YEL-1.png' height="150" width="auto" />
+<img src='TheFederation--black.png' height="150" width="330" />
 
 ## The Challenge
 
